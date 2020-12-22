@@ -1,0 +1,1204 @@
+age,sex,marital_status,grouped_education,likely_to_vote,interest_in_politics,n
+15 to 24 years,Female,Married,Graduated from High School,1,Not at all interested,1
+15 to 24 years,Female,Married,Graduated from High School,1,Not very interested,3
+15 to 24 years,Female,Married,Graduated from High School,1,Somewhat interested,5
+15 to 24 years,Female,Married,Graduated from High School,1,Very interested,1
+15 to 24 years,Female,Married,Graduated from High School,2,Not at all interested,1
+15 to 24 years,Female,Married,Graduated from High School,2,Not very interested,4
+15 to 24 years,Female,Married,Graduated from High School,2,Somewhat interested,3
+15 to 24 years,Female,Married,Graduated from High School,3,Not at all interested,5
+15 to 24 years,Female,Married,Graduated from High School,3,Not very interested,3
+15 to 24 years,Female,Married,Graduated from High School,3,Somewhat interested,1
+15 to 24 years,Female,Married,Less than High School,1,Not at all interested,1
+15 to 24 years,Female,Married,Less than High School,1,Not very interested,1
+15 to 24 years,Female,Married,Less than High School,2,Not very interested,2
+15 to 24 years,Female,Married,Less than High School,3,Not at all interested,2
+15 to 24 years,Female,Married,Less than High School,3,Not very interested,2
+15 to 24 years,Female,Married,Post-secondary diploma,1,Somewhat interested,5
+15 to 24 years,Female,Married,Post-secondary diploma,2,Not at all interested,1
+15 to 24 years,Female,Married,Post-secondary diploma,2,Somewhat interested,1
+15 to 24 years,Female,Married,Post-secondary diploma,3,Not at all interested,2
+15 to 24 years,Female,Married,Post-secondary diploma,3,Somewhat interested,1
+15 to 24 years,Female,Married,University degree,1,Not very interested,1
+15 to 24 years,Female,Married,University degree,1,Somewhat interested,6
+15 to 24 years,Female,Married,University degree,1,Very interested,2
+15 to 24 years,Female,Married,University degree,2,Not at all interested,2
+15 to 24 years,Female,Married,University degree,2,Somewhat interested,1
+15 to 24 years,Female,Married,University degree,3,Not at all interested,2
+15 to 24 years,Female,Married,University degree,3,Not very interested,1
+15 to 24 years,Female,Others,Graduated from High School,1,Not at all interested,43
+15 to 24 years,Female,Others,Graduated from High School,1,Not very interested,100
+15 to 24 years,Female,Others,Graduated from High School,1,Somewhat interested,240
+15 to 24 years,Female,Others,Graduated from High School,1,Very interested,65
+15 to 24 years,Female,Others,Graduated from High School,2,Not at all interested,38
+15 to 24 years,Female,Others,Graduated from High School,2,Not very interested,103
+15 to 24 years,Female,Others,Graduated from High School,2,Somewhat interested,55
+15 to 24 years,Female,Others,Graduated from High School,2,Very interested,3
+15 to 24 years,Female,Others,Graduated from High School,3,Not at all interested,63
+15 to 24 years,Female,Others,Graduated from High School,3,Not very interested,43
+15 to 24 years,Female,Others,Graduated from High School,3,Somewhat interested,23
+15 to 24 years,Female,Others,Graduated from High School,3,Very interested,5
+15 to 24 years,Female,Others,Less than High School,1,Not at all interested,9
+15 to 24 years,Female,Others,Less than High School,1,Not very interested,27
+15 to 24 years,Female,Others,Less than High School,1,Somewhat interested,72
+15 to 24 years,Female,Others,Less than High School,1,Very interested,22
+15 to 24 years,Female,Others,Less than High School,2,Not at all interested,15
+15 to 24 years,Female,Others,Less than High School,2,Not very interested,43
+15 to 24 years,Female,Others,Less than High School,2,Somewhat interested,35
+15 to 24 years,Female,Others,Less than High School,2,Very interested,6
+15 to 24 years,Female,Others,Less than High School,3,Not at all interested,51
+15 to 24 years,Female,Others,Less than High School,3,Not very interested,48
+15 to 24 years,Female,Others,Less than High School,3,Somewhat interested,46
+15 to 24 years,Female,Others,Less than High School,3,Very interested,6
+15 to 24 years,Female,Others,Post-secondary diploma,1,Not at all interested,17
+15 to 24 years,Female,Others,Post-secondary diploma,1,Not very interested,37
+15 to 24 years,Female,Others,Post-secondary diploma,1,Somewhat interested,72
+15 to 24 years,Female,Others,Post-secondary diploma,1,Very interested,15
+15 to 24 years,Female,Others,Post-secondary diploma,2,Not at all interested,9
+15 to 24 years,Female,Others,Post-secondary diploma,2,Not very interested,24
+15 to 24 years,Female,Others,Post-secondary diploma,2,Somewhat interested,14
+15 to 24 years,Female,Others,Post-secondary diploma,2,Very interested,1
+15 to 24 years,Female,Others,Post-secondary diploma,3,Not at all interested,15
+15 to 24 years,Female,Others,Post-secondary diploma,3,Not very interested,13
+15 to 24 years,Female,Others,Post-secondary diploma,3,Somewhat interested,3
+15 to 24 years,Female,Others,University degree,1,Not at all interested,3
+15 to 24 years,Female,Others,University degree,1,Not very interested,25
+15 to 24 years,Female,Others,University degree,1,Somewhat interested,62
+15 to 24 years,Female,Others,University degree,1,Very interested,28
+15 to 24 years,Female,Others,University degree,2,Not at all interested,6
+15 to 24 years,Female,Others,University degree,2,Not very interested,17
+15 to 24 years,Female,Others,University degree,2,Somewhat interested,6
+15 to 24 years,Female,Others,University degree,2,Very interested,1
+15 to 24 years,Female,Others,University degree,3,Not at all interested,4
+15 to 24 years,Female,Others,University degree,3,Not very interested,6
+15 to 24 years,Female,Others,University degree,3,Somewhat interested,4
+15 to 24 years,Female,Others,University degree,3,Very interested,1
+15 to 24 years,Male,Married,Graduated from High School,1,Somewhat interested,2
+15 to 24 years,Male,Married,Graduated from High School,1,Very interested,1
+15 to 24 years,Male,Married,Graduated from High School,2,Not very interested,1
+15 to 24 years,Male,Married,Graduated from High School,3,Not at all interested,3
+15 to 24 years,Male,Married,Graduated from High School,3,Not very interested,1
+15 to 24 years,Male,Married,Graduated from High School,3,Somewhat interested,1
+15 to 24 years,Male,Married,Less than High School,1,Not very interested,2
+15 to 24 years,Male,Married,Less than High School,1,Somewhat interested,1
+15 to 24 years,Male,Married,Less than High School,1,Very interested,1
+15 to 24 years,Male,Married,Post-secondary diploma,1,Not at all interested,2
+15 to 24 years,Male,Married,Post-secondary diploma,1,Not very interested,3
+15 to 24 years,Male,Married,Post-secondary diploma,1,Somewhat interested,3
+15 to 24 years,Male,Married,Post-secondary diploma,1,Very interested,1
+15 to 24 years,Male,Married,Post-secondary diploma,2,Somewhat interested,1
+15 to 24 years,Male,Married,Post-secondary diploma,2,Very interested,1
+15 to 24 years,Male,Married,Post-secondary diploma,3,Not at all interested,1
+15 to 24 years,Male,Married,Post-secondary diploma,3,Not very interested,1
+15 to 24 years,Male,Married,University degree,3,Somewhat interested,1
+15 to 24 years,Male,Others,Graduated from High School,1,Not at all interested,28
+15 to 24 years,Male,Others,Graduated from High School,1,Not very interested,68
+15 to 24 years,Male,Others,Graduated from High School,1,Somewhat interested,229
+15 to 24 years,Male,Others,Graduated from High School,1,Very interested,99
+15 to 24 years,Male,Others,Graduated from High School,2,Not at all interested,24
+15 to 24 years,Male,Others,Graduated from High School,2,Not very interested,75
+15 to 24 years,Male,Others,Graduated from High School,2,Somewhat interested,93
+15 to 24 years,Male,Others,Graduated from High School,2,Very interested,12
+15 to 24 years,Male,Others,Graduated from High School,3,Not at all interested,52
+15 to 24 years,Male,Others,Graduated from High School,3,Not very interested,49
+15 to 24 years,Male,Others,Graduated from High School,3,Somewhat interested,40
+15 to 24 years,Male,Others,Graduated from High School,3,Very interested,7
+15 to 24 years,Male,Others,Less than High School,1,Not at all interested,11
+15 to 24 years,Male,Others,Less than High School,1,Not very interested,33
+15 to 24 years,Male,Others,Less than High School,1,Somewhat interested,106
+15 to 24 years,Male,Others,Less than High School,1,Very interested,40
+15 to 24 years,Male,Others,Less than High School,2,Not at all interested,11
+15 to 24 years,Male,Others,Less than High School,2,Not very interested,37
+15 to 24 years,Male,Others,Less than High School,2,Somewhat interested,45
+15 to 24 years,Male,Others,Less than High School,2,Very interested,4
+15 to 24 years,Male,Others,Less than High School,3,Not at all interested,49
+15 to 24 years,Male,Others,Less than High School,3,Not very interested,48
+15 to 24 years,Male,Others,Less than High School,3,Somewhat interested,56
+15 to 24 years,Male,Others,Less than High School,3,Very interested,6
+15 to 24 years,Male,Others,Post-secondary diploma,1,Not at all interested,9
+15 to 24 years,Male,Others,Post-secondary diploma,1,Not very interested,38
+15 to 24 years,Male,Others,Post-secondary diploma,1,Somewhat interested,65
+15 to 24 years,Male,Others,Post-secondary diploma,1,Very interested,21
+15 to 24 years,Male,Others,Post-secondary diploma,2,Not at all interested,9
+15 to 24 years,Male,Others,Post-secondary diploma,2,Not very interested,23
+15 to 24 years,Male,Others,Post-secondary diploma,2,Somewhat interested,15
+15 to 24 years,Male,Others,Post-secondary diploma,2,Very interested,2
+15 to 24 years,Male,Others,Post-secondary diploma,3,Not at all interested,12
+15 to 24 years,Male,Others,Post-secondary diploma,3,Not very interested,14
+15 to 24 years,Male,Others,Post-secondary diploma,3,Somewhat interested,9
+15 to 24 years,Male,Others,Post-secondary diploma,3,Very interested,4
+15 to 24 years,Male,Others,University degree,1,Not at all interested,1
+15 to 24 years,Male,Others,University degree,1,Not very interested,12
+15 to 24 years,Male,Others,University degree,1,Somewhat interested,45
+15 to 24 years,Male,Others,University degree,1,Very interested,24
+15 to 24 years,Male,Others,University degree,2,Not at all interested,3
+15 to 24 years,Male,Others,University degree,2,Not very interested,8
+15 to 24 years,Male,Others,University degree,2,Somewhat interested,11
+15 to 24 years,Male,Others,University degree,3,Not at all interested,9
+15 to 24 years,Male,Others,University degree,3,Not very interested,3
+15 to 24 years,Male,Others,University degree,3,Somewhat interested,5
+25 to 34 years,Female,Married,Graduated from High School,1,Not at all interested,6
+25 to 34 years,Female,Married,Graduated from High School,1,Not very interested,20
+25 to 34 years,Female,Married,Graduated from High School,1,Somewhat interested,33
+25 to 34 years,Female,Married,Graduated from High School,1,Very interested,7
+25 to 34 years,Female,Married,Graduated from High School,2,Not at all interested,7
+25 to 34 years,Female,Married,Graduated from High School,2,Not very interested,12
+25 to 34 years,Female,Married,Graduated from High School,2,Somewhat interested,13
+25 to 34 years,Female,Married,Graduated from High School,3,Not at all interested,18
+25 to 34 years,Female,Married,Graduated from High School,3,Not very interested,9
+25 to 34 years,Female,Married,Graduated from High School,3,Somewhat interested,4
+25 to 34 years,Female,Married,Less than High School,1,Not at all interested,3
+25 to 34 years,Female,Married,Less than High School,1,Not very interested,10
+25 to 34 years,Female,Married,Less than High School,1,Somewhat interested,4
+25 to 34 years,Female,Married,Less than High School,1,Very interested,2
+25 to 34 years,Female,Married,Less than High School,2,Not at all interested,2
+25 to 34 years,Female,Married,Less than High School,2,Not very interested,1
+25 to 34 years,Female,Married,Less than High School,2,Somewhat interested,1
+25 to 34 years,Female,Married,Less than High School,3,Not at all interested,4
+25 to 34 years,Female,Married,Less than High School,3,Not very interested,4
+25 to 34 years,Female,Married,Post-secondary diploma,1,Not at all interested,14
+25 to 34 years,Female,Married,Post-secondary diploma,1,Not very interested,41
+25 to 34 years,Female,Married,Post-secondary diploma,1,Somewhat interested,83
+25 to 34 years,Female,Married,Post-secondary diploma,1,Very interested,6
+25 to 34 years,Female,Married,Post-secondary diploma,2,Not at all interested,15
+25 to 34 years,Female,Married,Post-secondary diploma,2,Not very interested,24
+25 to 34 years,Female,Married,Post-secondary diploma,2,Somewhat interested,15
+25 to 34 years,Female,Married,Post-secondary diploma,3,Not at all interested,23
+25 to 34 years,Female,Married,Post-secondary diploma,3,Not very interested,14
+25 to 34 years,Female,Married,Post-secondary diploma,3,Somewhat interested,10
+25 to 34 years,Female,Married,Post-secondary diploma,3,Very interested,1
+25 to 34 years,Female,Married,University degree,1,Not at all interested,26
+25 to 34 years,Female,Married,University degree,1,Not very interested,63
+25 to 34 years,Female,Married,University degree,1,Somewhat interested,141
+25 to 34 years,Female,Married,University degree,1,Very interested,44
+25 to 34 years,Female,Married,University degree,2,Not at all interested,9
+25 to 34 years,Female,Married,University degree,2,Not very interested,28
+25 to 34 years,Female,Married,University degree,2,Somewhat interested,23
+25 to 34 years,Female,Married,University degree,2,Very interested,4
+25 to 34 years,Female,Married,University degree,3,Not at all interested,17
+25 to 34 years,Female,Married,University degree,3,Not very interested,20
+25 to 34 years,Female,Married,University degree,3,Somewhat interested,21
+25 to 34 years,Female,Married,University degree,3,Very interested,4
+25 to 34 years,Female,Others,Graduated from High School,1,Not at all interested,16
+25 to 34 years,Female,Others,Graduated from High School,1,Not very interested,23
+25 to 34 years,Female,Others,Graduated from High School,1,Somewhat interested,47
+25 to 34 years,Female,Others,Graduated from High School,1,Very interested,12
+25 to 34 years,Female,Others,Graduated from High School,2,Not at all interested,11
+25 to 34 years,Female,Others,Graduated from High School,2,Not very interested,15
+25 to 34 years,Female,Others,Graduated from High School,2,Somewhat interested,10
+25 to 34 years,Female,Others,Graduated from High School,2,Very interested,1
+25 to 34 years,Female,Others,Graduated from High School,3,Not at all interested,22
+25 to 34 years,Female,Others,Graduated from High School,3,Not very interested,12
+25 to 34 years,Female,Others,Graduated from High School,3,Somewhat interested,4
+25 to 34 years,Female,Others,Graduated from High School,3,Very interested,1
+25 to 34 years,Female,Others,Less than High School,1,Not at all interested,1
+25 to 34 years,Female,Others,Less than High School,1,Not very interested,8
+25 to 34 years,Female,Others,Less than High School,1,Somewhat interested,7
+25 to 34 years,Female,Others,Less than High School,1,Very interested,3
+25 to 34 years,Female,Others,Less than High School,2,Not at all interested,2
+25 to 34 years,Female,Others,Less than High School,2,Not very interested,4
+25 to 34 years,Female,Others,Less than High School,2,Very interested,1
+25 to 34 years,Female,Others,Less than High School,3,Not at all interested,6
+25 to 34 years,Female,Others,Less than High School,3,Not very interested,1
+25 to 34 years,Female,Others,Less than High School,3,Somewhat interested,1
+25 to 34 years,Female,Others,Post-secondary diploma,1,Not at all interested,16
+25 to 34 years,Female,Others,Post-secondary diploma,1,Not very interested,47
+25 to 34 years,Female,Others,Post-secondary diploma,1,Somewhat interested,125
+25 to 34 years,Female,Others,Post-secondary diploma,1,Very interested,28
+25 to 34 years,Female,Others,Post-secondary diploma,2,Not at all interested,14
+25 to 34 years,Female,Others,Post-secondary diploma,2,Not very interested,25
+25 to 34 years,Female,Others,Post-secondary diploma,2,Somewhat interested,18
+25 to 34 years,Female,Others,Post-secondary diploma,2,Very interested,3
+25 to 34 years,Female,Others,Post-secondary diploma,3,Not at all interested,38
+25 to 34 years,Female,Others,Post-secondary diploma,3,Not very interested,14
+25 to 34 years,Female,Others,Post-secondary diploma,3,Somewhat interested,9
+25 to 34 years,Female,Others,Post-secondary diploma,3,Very interested,1
+25 to 34 years,Female,Others,University degree,1,Not at all interested,18
+25 to 34 years,Female,Others,University degree,1,Not very interested,56
+25 to 34 years,Female,Others,University degree,1,Somewhat interested,126
+25 to 34 years,Female,Others,University degree,1,Very interested,61
+25 to 34 years,Female,Others,University degree,2,Not at all interested,10
+25 to 34 years,Female,Others,University degree,2,Not very interested,20
+25 to 34 years,Female,Others,University degree,2,Somewhat interested,27
+25 to 34 years,Female,Others,University degree,2,Very interested,1
+25 to 34 years,Female,Others,University degree,3,Not at all interested,16
+25 to 34 years,Female,Others,University degree,3,Not very interested,18
+25 to 34 years,Female,Others,University degree,3,Somewhat interested,15
+25 to 34 years,Female,Others,University degree,3,Very interested,3
+25 to 34 years,Male,Married,Graduated from High School,1,Not at all interested,3
+25 to 34 years,Male,Married,Graduated from High School,1,Not very interested,18
+25 to 34 years,Male,Married,Graduated from High School,1,Somewhat interested,29
+25 to 34 years,Male,Married,Graduated from High School,1,Very interested,9
+25 to 34 years,Male,Married,Graduated from High School,2,Not at all interested,4
+25 to 34 years,Male,Married,Graduated from High School,2,Not very interested,8
+25 to 34 years,Male,Married,Graduated from High School,2,Somewhat interested,9
+25 to 34 years,Male,Married,Graduated from High School,2,Very interested,1
+25 to 34 years,Male,Married,Graduated from High School,3,Not at all interested,19
+25 to 34 years,Male,Married,Graduated from High School,3,Not very interested,5
+25 to 34 years,Male,Married,Graduated from High School,3,Somewhat interested,9
+25 to 34 years,Male,Married,Graduated from High School,3,Very interested,3
+25 to 34 years,Male,Married,Less than High School,1,Not at all interested,4
+25 to 34 years,Male,Married,Less than High School,1,Not very interested,3
+25 to 34 years,Male,Married,Less than High School,1,Somewhat interested,8
+25 to 34 years,Male,Married,Less than High School,1,Very interested,2
+25 to 34 years,Male,Married,Less than High School,2,Not at all interested,1
+25 to 34 years,Male,Married,Less than High School,2,Not very interested,2
+25 to 34 years,Male,Married,Less than High School,2,Somewhat interested,1
+25 to 34 years,Male,Married,Less than High School,3,Not at all interested,1
+25 to 34 years,Male,Married,Less than High School,3,Not very interested,5
+25 to 34 years,Male,Married,Less than High School,3,Somewhat interested,1
+25 to 34 years,Male,Married,Post-secondary diploma,1,Not at all interested,7
+25 to 34 years,Male,Married,Post-secondary diploma,1,Not very interested,31
+25 to 34 years,Male,Married,Post-secondary diploma,1,Somewhat interested,68
+25 to 34 years,Male,Married,Post-secondary diploma,1,Very interested,38
+25 to 34 years,Male,Married,Post-secondary diploma,2,Not at all interested,5
+25 to 34 years,Male,Married,Post-secondary diploma,2,Not very interested,20
+25 to 34 years,Male,Married,Post-secondary diploma,2,Somewhat interested,17
+25 to 34 years,Male,Married,Post-secondary diploma,2,Very interested,1
+25 to 34 years,Male,Married,Post-secondary diploma,3,Not at all interested,14
+25 to 34 years,Male,Married,Post-secondary diploma,3,Not very interested,9
+25 to 34 years,Male,Married,Post-secondary diploma,3,Somewhat interested,12
+25 to 34 years,Male,Married,University degree,1,Not at all interested,3
+25 to 34 years,Male,Married,University degree,1,Not very interested,27
+25 to 34 years,Male,Married,University degree,1,Somewhat interested,86
+25 to 34 years,Male,Married,University degree,1,Very interested,57
+25 to 34 years,Male,Married,University degree,2,Not at all interested,4
+25 to 34 years,Male,Married,University degree,2,Not very interested,8
+25 to 34 years,Male,Married,University degree,2,Somewhat interested,8
+25 to 34 years,Male,Married,University degree,2,Very interested,7
+25 to 34 years,Male,Married,University degree,3,Not at all interested,5
+25 to 34 years,Male,Married,University degree,3,Not very interested,9
+25 to 34 years,Male,Married,University degree,3,Somewhat interested,22
+25 to 34 years,Male,Married,University degree,3,Very interested,11
+25 to 34 years,Male,Others,Graduated from High School,1,Not at all interested,11
+25 to 34 years,Male,Others,Graduated from High School,1,Not very interested,11
+25 to 34 years,Male,Others,Graduated from High School,1,Somewhat interested,59
+25 to 34 years,Male,Others,Graduated from High School,1,Very interested,31
+25 to 34 years,Male,Others,Graduated from High School,2,Not at all interested,15
+25 to 34 years,Male,Others,Graduated from High School,2,Not very interested,14
+25 to 34 years,Male,Others,Graduated from High School,2,Somewhat interested,20
+25 to 34 years,Male,Others,Graduated from High School,3,Not at all interested,17
+25 to 34 years,Male,Others,Graduated from High School,3,Not very interested,13
+25 to 34 years,Male,Others,Graduated from High School,3,Somewhat interested,14
+25 to 34 years,Male,Others,Graduated from High School,3,Very interested,3
+25 to 34 years,Male,Others,Less than High School,1,Not at all interested,3
+25 to 34 years,Male,Others,Less than High School,1,Not very interested,4
+25 to 34 years,Male,Others,Less than High School,1,Somewhat interested,9
+25 to 34 years,Male,Others,Less than High School,1,Very interested,1
+25 to 34 years,Male,Others,Less than High School,2,Not at all interested,5
+25 to 34 years,Male,Others,Less than High School,2,Not very interested,3
+25 to 34 years,Male,Others,Less than High School,2,Somewhat interested,8
+25 to 34 years,Male,Others,Less than High School,2,Very interested,3
+25 to 34 years,Male,Others,Less than High School,3,Not at all interested,5
+25 to 34 years,Male,Others,Less than High School,3,Not very interested,4
+25 to 34 years,Male,Others,Less than High School,3,Somewhat interested,3
+25 to 34 years,Male,Others,Post-secondary diploma,1,Not at all interested,10
+25 to 34 years,Male,Others,Post-secondary diploma,1,Not very interested,28
+25 to 34 years,Male,Others,Post-secondary diploma,1,Somewhat interested,104
+25 to 34 years,Male,Others,Post-secondary diploma,1,Very interested,63
+25 to 34 years,Male,Others,Post-secondary diploma,2,Not at all interested,7
+25 to 34 years,Male,Others,Post-secondary diploma,2,Not very interested,26
+25 to 34 years,Male,Others,Post-secondary diploma,2,Somewhat interested,27
+25 to 34 years,Male,Others,Post-secondary diploma,2,Very interested,6
+25 to 34 years,Male,Others,Post-secondary diploma,3,Not at all interested,18
+25 to 34 years,Male,Others,Post-secondary diploma,3,Not very interested,10
+25 to 34 years,Male,Others,Post-secondary diploma,3,Somewhat interested,10
+25 to 34 years,Male,Others,Post-secondary diploma,3,Very interested,8
+25 to 34 years,Male,Others,University degree,1,Not at all interested,5
+25 to 34 years,Male,Others,University degree,1,Not very interested,19
+25 to 34 years,Male,Others,University degree,1,Somewhat interested,104
+25 to 34 years,Male,Others,University degree,1,Very interested,73
+25 to 34 years,Male,Others,University degree,2,Not at all interested,3
+25 to 34 years,Male,Others,University degree,2,Not very interested,15
+25 to 34 years,Male,Others,University degree,2,Somewhat interested,14
+25 to 34 years,Male,Others,University degree,2,Very interested,3
+25 to 34 years,Male,Others,University degree,3,Not at all interested,15
+25 to 34 years,Male,Others,University degree,3,Not very interested,21
+25 to 34 years,Male,Others,University degree,3,Somewhat interested,23
+25 to 34 years,Male,Others,University degree,3,Very interested,10
+35 to 44 years,Female,Married,Graduated from High School,1,Not at all interested,16
+35 to 44 years,Female,Married,Graduated from High School,1,Not very interested,25
+35 to 44 years,Female,Married,Graduated from High School,1,Somewhat interested,47
+35 to 44 years,Female,Married,Graduated from High School,1,Very interested,11
+35 to 44 years,Female,Married,Graduated from High School,2,Not at all interested,8
+35 to 44 years,Female,Married,Graduated from High School,2,Not very interested,14
+35 to 44 years,Female,Married,Graduated from High School,2,Somewhat interested,8
+35 to 44 years,Female,Married,Graduated from High School,3,Not at all interested,15
+35 to 44 years,Female,Married,Graduated from High School,3,Not very interested,16
+35 to 44 years,Female,Married,Graduated from High School,3,Somewhat interested,4
+35 to 44 years,Female,Married,Graduated from High School,3,Very interested,1
+35 to 44 years,Female,Married,Less than High School,1,Not at all interested,3
+35 to 44 years,Female,Married,Less than High School,1,Not very interested,5
+35 to 44 years,Female,Married,Less than High School,1,Somewhat interested,6
+35 to 44 years,Female,Married,Less than High School,1,Very interested,4
+35 to 44 years,Female,Married,Less than High School,2,Not at all interested,3
+35 to 44 years,Female,Married,Less than High School,2,Not very interested,1
+35 to 44 years,Female,Married,Less than High School,2,Somewhat interested,3
+35 to 44 years,Female,Married,Less than High School,3,Not at all interested,2
+35 to 44 years,Female,Married,Less than High School,3,Not very interested,1
+35 to 44 years,Female,Married,Less than High School,3,Somewhat interested,1
+35 to 44 years,Female,Married,Less than High School,3,Very interested,1
+35 to 44 years,Female,Married,Post-secondary diploma,1,Not at all interested,37
+35 to 44 years,Female,Married,Post-secondary diploma,1,Not very interested,94
+35 to 44 years,Female,Married,Post-secondary diploma,1,Somewhat interested,159
+35 to 44 years,Female,Married,Post-secondary diploma,1,Very interested,43
+35 to 44 years,Female,Married,Post-secondary diploma,2,Not at all interested,14
+35 to 44 years,Female,Married,Post-secondary diploma,2,Not very interested,30
+35 to 44 years,Female,Married,Post-secondary diploma,2,Somewhat interested,28
+35 to 44 years,Female,Married,Post-secondary diploma,2,Very interested,2
+35 to 44 years,Female,Married,Post-secondary diploma,3,Not at all interested,39
+35 to 44 years,Female,Married,Post-secondary diploma,3,Not very interested,13
+35 to 44 years,Female,Married,Post-secondary diploma,3,Somewhat interested,18
+35 to 44 years,Female,Married,University degree,1,Not at all interested,36
+35 to 44 years,Female,Married,University degree,1,Not very interested,122
+35 to 44 years,Female,Married,University degree,1,Somewhat interested,239
+35 to 44 years,Female,Married,University degree,1,Very interested,89
+35 to 44 years,Female,Married,University degree,2,Not at all interested,12
+35 to 44 years,Female,Married,University degree,2,Not very interested,26
+35 to 44 years,Female,Married,University degree,2,Somewhat interested,33
+35 to 44 years,Female,Married,University degree,2,Very interested,2
+35 to 44 years,Female,Married,University degree,3,Not at all interested,28
+35 to 44 years,Female,Married,University degree,3,Not very interested,28
+35 to 44 years,Female,Married,University degree,3,Somewhat interested,28
+35 to 44 years,Female,Married,University degree,3,Very interested,5
+35 to 44 years,Female,Others,Graduated from High School,1,Not at all interested,11
+35 to 44 years,Female,Others,Graduated from High School,1,Not very interested,26
+35 to 44 years,Female,Others,Graduated from High School,1,Somewhat interested,47
+35 to 44 years,Female,Others,Graduated from High School,1,Very interested,11
+35 to 44 years,Female,Others,Graduated from High School,2,Not at all interested,8
+35 to 44 years,Female,Others,Graduated from High School,2,Not very interested,7
+35 to 44 years,Female,Others,Graduated from High School,2,Somewhat interested,8
+35 to 44 years,Female,Others,Graduated from High School,3,Not at all interested,20
+35 to 44 years,Female,Others,Graduated from High School,3,Not very interested,6
+35 to 44 years,Female,Others,Graduated from High School,3,Somewhat interested,4
+35 to 44 years,Female,Others,Graduated from High School,3,Very interested,2
+35 to 44 years,Female,Others,Less than High School,1,Not at all interested,3
+35 to 44 years,Female,Others,Less than High School,1,Not very interested,8
+35 to 44 years,Female,Others,Less than High School,1,Somewhat interested,10
+35 to 44 years,Female,Others,Less than High School,1,Very interested,1
+35 to 44 years,Female,Others,Less than High School,2,Not at all interested,2
+35 to 44 years,Female,Others,Less than High School,3,Not at all interested,5
+35 to 44 years,Female,Others,Less than High School,3,Not very interested,2
+35 to 44 years,Female,Others,Post-secondary diploma,1,Not at all interested,25
+35 to 44 years,Female,Others,Post-secondary diploma,1,Not very interested,54
+35 to 44 years,Female,Others,Post-secondary diploma,1,Somewhat interested,111
+35 to 44 years,Female,Others,Post-secondary diploma,1,Very interested,21
+35 to 44 years,Female,Others,Post-secondary diploma,2,Not at all interested,13
+35 to 44 years,Female,Others,Post-secondary diploma,2,Not very interested,29
+35 to 44 years,Female,Others,Post-secondary diploma,2,Somewhat interested,20
+35 to 44 years,Female,Others,Post-secondary diploma,2,Very interested,2
+35 to 44 years,Female,Others,Post-secondary diploma,3,Not at all interested,36
+35 to 44 years,Female,Others,Post-secondary diploma,3,Not very interested,17
+35 to 44 years,Female,Others,Post-secondary diploma,3,Somewhat interested,15
+35 to 44 years,Female,Others,Post-secondary diploma,3,Very interested,2
+35 to 44 years,Female,Others,University degree,1,Not at all interested,10
+35 to 44 years,Female,Others,University degree,1,Not very interested,61
+35 to 44 years,Female,Others,University degree,1,Somewhat interested,156
+35 to 44 years,Female,Others,University degree,1,Very interested,54
+35 to 44 years,Female,Others,University degree,2,Not at all interested,5
+35 to 44 years,Female,Others,University degree,2,Not very interested,7
+35 to 44 years,Female,Others,University degree,2,Somewhat interested,15
+35 to 44 years,Female,Others,University degree,2,Very interested,2
+35 to 44 years,Female,Others,University degree,3,Not at all interested,13
+35 to 44 years,Female,Others,University degree,3,Not very interested,11
+35 to 44 years,Female,Others,University degree,3,Somewhat interested,12
+35 to 44 years,Female,Others,University degree,3,Very interested,2
+35 to 44 years,Male,Married,Graduated from High School,1,Not at all interested,10
+35 to 44 years,Male,Married,Graduated from High School,1,Not very interested,35
+35 to 44 years,Male,Married,Graduated from High School,1,Somewhat interested,66
+35 to 44 years,Male,Married,Graduated from High School,1,Very interested,22
+35 to 44 years,Male,Married,Graduated from High School,2,Not at all interested,10
+35 to 44 years,Male,Married,Graduated from High School,2,Not very interested,13
+35 to 44 years,Male,Married,Graduated from High School,2,Somewhat interested,10
+35 to 44 years,Male,Married,Graduated from High School,2,Very interested,2
+35 to 44 years,Male,Married,Graduated from High School,3,Not at all interested,14
+35 to 44 years,Male,Married,Graduated from High School,3,Not very interested,6
+35 to 44 years,Male,Married,Graduated from High School,3,Somewhat interested,5
+35 to 44 years,Male,Married,Graduated from High School,3,Very interested,2
+35 to 44 years,Male,Married,Less than High School,1,Not at all interested,4
+35 to 44 years,Male,Married,Less than High School,1,Not very interested,4
+35 to 44 years,Male,Married,Less than High School,1,Somewhat interested,7
+35 to 44 years,Male,Married,Less than High School,1,Very interested,4
+35 to 44 years,Male,Married,Less than High School,2,Not at all interested,2
+35 to 44 years,Male,Married,Less than High School,2,Not very interested,4
+35 to 44 years,Male,Married,Less than High School,2,Somewhat interested,2
+35 to 44 years,Male,Married,Less than High School,3,Not at all interested,2
+35 to 44 years,Male,Married,Less than High School,3,Not very interested,4
+35 to 44 years,Male,Married,Less than High School,3,Somewhat interested,1
+35 to 44 years,Male,Married,Less than High School,3,Very interested,1
+35 to 44 years,Male,Married,Post-secondary diploma,1,Not at all interested,18
+35 to 44 years,Male,Married,Post-secondary diploma,1,Not very interested,58
+35 to 44 years,Male,Married,Post-secondary diploma,1,Somewhat interested,170
+35 to 44 years,Male,Married,Post-secondary diploma,1,Very interested,76
+35 to 44 years,Male,Married,Post-secondary diploma,2,Not at all interested,3
+35 to 44 years,Male,Married,Post-secondary diploma,2,Not very interested,19
+35 to 44 years,Male,Married,Post-secondary diploma,2,Somewhat interested,28
+35 to 44 years,Male,Married,Post-secondary diploma,2,Very interested,6
+35 to 44 years,Male,Married,Post-secondary diploma,3,Not at all interested,25
+35 to 44 years,Male,Married,Post-secondary diploma,3,Not very interested,14
+35 to 44 years,Male,Married,Post-secondary diploma,3,Somewhat interested,20
+35 to 44 years,Male,Married,Post-secondary diploma,3,Very interested,5
+35 to 44 years,Male,Married,University degree,1,Not at all interested,19
+35 to 44 years,Male,Married,University degree,1,Not very interested,66
+35 to 44 years,Male,Married,University degree,1,Somewhat interested,233
+35 to 44 years,Male,Married,University degree,1,Very interested,162
+35 to 44 years,Male,Married,University degree,2,Not at all interested,4
+35 to 44 years,Male,Married,University degree,2,Not very interested,19
+35 to 44 years,Male,Married,University degree,2,Somewhat interested,25
+35 to 44 years,Male,Married,University degree,2,Very interested,3
+35 to 44 years,Male,Married,University degree,3,Not at all interested,16
+35 to 44 years,Male,Married,University degree,3,Not very interested,19
+35 to 44 years,Male,Married,University degree,3,Somewhat interested,20
+35 to 44 years,Male,Married,University degree,3,Very interested,12
+35 to 44 years,Male,Others,Graduated from High School,1,Not at all interested,10
+35 to 44 years,Male,Others,Graduated from High School,1,Not very interested,16
+35 to 44 years,Male,Others,Graduated from High School,1,Somewhat interested,52
+35 to 44 years,Male,Others,Graduated from High School,1,Very interested,24
+35 to 44 years,Male,Others,Graduated from High School,2,Not at all interested,5
+35 to 44 years,Male,Others,Graduated from High School,2,Not very interested,17
+35 to 44 years,Male,Others,Graduated from High School,2,Somewhat interested,14
+35 to 44 years,Male,Others,Graduated from High School,2,Very interested,1
+35 to 44 years,Male,Others,Graduated from High School,3,Not at all interested,25
+35 to 44 years,Male,Others,Graduated from High School,3,Not very interested,3
+35 to 44 years,Male,Others,Graduated from High School,3,Somewhat interested,7
+35 to 44 years,Male,Others,Graduated from High School,3,Very interested,1
+35 to 44 years,Male,Others,Less than High School,1,Not at all interested,6
+35 to 44 years,Male,Others,Less than High School,1,Not very interested,7
+35 to 44 years,Male,Others,Less than High School,1,Somewhat interested,13
+35 to 44 years,Male,Others,Less than High School,1,Very interested,3
+35 to 44 years,Male,Others,Less than High School,2,Not at all interested,3
+35 to 44 years,Male,Others,Less than High School,2,Not very interested,4
+35 to 44 years,Male,Others,Less than High School,2,Somewhat interested,3
+35 to 44 years,Male,Others,Less than High School,2,Very interested,1
+35 to 44 years,Male,Others,Less than High School,3,Not at all interested,14
+35 to 44 years,Male,Others,Less than High School,3,Not very interested,2
+35 to 44 years,Male,Others,Less than High School,3,Somewhat interested,2
+35 to 44 years,Male,Others,Less than High School,3,Very interested,2
+35 to 44 years,Male,Others,Post-secondary diploma,1,Not at all interested,14
+35 to 44 years,Male,Others,Post-secondary diploma,1,Not very interested,26
+35 to 44 years,Male,Others,Post-secondary diploma,1,Somewhat interested,86
+35 to 44 years,Male,Others,Post-secondary diploma,1,Very interested,35
+35 to 44 years,Male,Others,Post-secondary diploma,2,Not at all interested,6
+35 to 44 years,Male,Others,Post-secondary diploma,2,Not very interested,9
+35 to 44 years,Male,Others,Post-secondary diploma,2,Somewhat interested,22
+35 to 44 years,Male,Others,Post-secondary diploma,2,Very interested,2
+35 to 44 years,Male,Others,Post-secondary diploma,3,Not at all interested,24
+35 to 44 years,Male,Others,Post-secondary diploma,3,Not very interested,6
+35 to 44 years,Male,Others,Post-secondary diploma,3,Somewhat interested,4
+35 to 44 years,Male,Others,Post-secondary diploma,3,Very interested,3
+35 to 44 years,Male,Others,University degree,1,Not at all interested,9
+35 to 44 years,Male,Others,University degree,1,Not very interested,15
+35 to 44 years,Male,Others,University degree,1,Somewhat interested,71
+35 to 44 years,Male,Others,University degree,1,Very interested,80
+35 to 44 years,Male,Others,University degree,2,Not very interested,4
+35 to 44 years,Male,Others,University degree,2,Somewhat interested,12
+35 to 44 years,Male,Others,University degree,2,Very interested,3
+35 to 44 years,Male,Others,University degree,3,Not at all interested,8
+35 to 44 years,Male,Others,University degree,3,Not very interested,4
+35 to 44 years,Male,Others,University degree,3,Somewhat interested,10
+35 to 44 years,Male,Others,University degree,3,Very interested,8
+45 to 54 years,Female,Married,Graduated from High School,1,Not at all interested,20
+45 to 54 years,Female,Married,Graduated from High School,1,Not very interested,63
+45 to 54 years,Female,Married,Graduated from High School,1,Somewhat interested,114
+45 to 54 years,Female,Married,Graduated from High School,1,Very interested,28
+45 to 54 years,Female,Married,Graduated from High School,2,Not at all interested,9
+45 to 54 years,Female,Married,Graduated from High School,2,Not very interested,18
+45 to 54 years,Female,Married,Graduated from High School,2,Somewhat interested,18
+45 to 54 years,Female,Married,Graduated from High School,2,Very interested,2
+45 to 54 years,Female,Married,Graduated from High School,3,Not at all interested,25
+45 to 54 years,Female,Married,Graduated from High School,3,Not very interested,14
+45 to 54 years,Female,Married,Graduated from High School,3,Somewhat interested,4
+45 to 54 years,Female,Married,Graduated from High School,3,Very interested,1
+45 to 54 years,Female,Married,Less than High School,1,Not at all interested,10
+45 to 54 years,Female,Married,Less than High School,1,Not very interested,13
+45 to 54 years,Female,Married,Less than High School,1,Somewhat interested,24
+45 to 54 years,Female,Married,Less than High School,1,Very interested,5
+45 to 54 years,Female,Married,Less than High School,2,Not at all interested,3
+45 to 54 years,Female,Married,Less than High School,2,Not very interested,6
+45 to 54 years,Female,Married,Less than High School,2,Somewhat interested,2
+45 to 54 years,Female,Married,Less than High School,3,Not at all interested,10
+45 to 54 years,Female,Married,Less than High School,3,Not very interested,4
+45 to 54 years,Female,Married,Less than High School,3,Somewhat interested,2
+45 to 54 years,Female,Married,Post-secondary diploma,1,Not at all interested,24
+45 to 54 years,Female,Married,Post-secondary diploma,1,Not very interested,68
+45 to 54 years,Female,Married,Post-secondary diploma,1,Somewhat interested,220
+45 to 54 years,Female,Married,Post-secondary diploma,1,Very interested,67
+45 to 54 years,Female,Married,Post-secondary diploma,2,Not at all interested,14
+45 to 54 years,Female,Married,Post-secondary diploma,2,Not very interested,29
+45 to 54 years,Female,Married,Post-secondary diploma,2,Somewhat interested,26
+45 to 54 years,Female,Married,Post-secondary diploma,2,Very interested,1
+45 to 54 years,Female,Married,Post-secondary diploma,3,Not at all interested,16
+45 to 54 years,Female,Married,Post-secondary diploma,3,Not very interested,12
+45 to 54 years,Female,Married,Post-secondary diploma,3,Somewhat interested,11
+45 to 54 years,Female,Married,Post-secondary diploma,3,Very interested,5
+45 to 54 years,Female,Married,University degree,1,Not at all interested,13
+45 to 54 years,Female,Married,University degree,1,Not very interested,72
+45 to 54 years,Female,Married,University degree,1,Somewhat interested,173
+45 to 54 years,Female,Married,University degree,1,Very interested,85
+45 to 54 years,Female,Married,University degree,2,Not at all interested,12
+45 to 54 years,Female,Married,University degree,2,Not very interested,21
+45 to 54 years,Female,Married,University degree,2,Somewhat interested,17
+45 to 54 years,Female,Married,University degree,2,Very interested,2
+45 to 54 years,Female,Married,University degree,3,Not at all interested,16
+45 to 54 years,Female,Married,University degree,3,Not very interested,11
+45 to 54 years,Female,Married,University degree,3,Somewhat interested,15
+45 to 54 years,Female,Others,Graduated from High School,1,Not at all interested,21
+45 to 54 years,Female,Others,Graduated from High School,1,Not very interested,27
+45 to 54 years,Female,Others,Graduated from High School,1,Somewhat interested,97
+45 to 54 years,Female,Others,Graduated from High School,1,Very interested,21
+45 to 54 years,Female,Others,Graduated from High School,2,Not at all interested,8
+45 to 54 years,Female,Others,Graduated from High School,2,Not very interested,22
+45 to 54 years,Female,Others,Graduated from High School,2,Somewhat interested,9
+45 to 54 years,Female,Others,Graduated from High School,2,Very interested,2
+45 to 54 years,Female,Others,Graduated from High School,3,Not at all interested,21
+45 to 54 years,Female,Others,Graduated from High School,3,Not very interested,9
+45 to 54 years,Female,Others,Graduated from High School,3,Somewhat interested,5
+45 to 54 years,Female,Others,Graduated from High School,3,Very interested,1
+45 to 54 years,Female,Others,Less than High School,1,Not at all interested,8
+45 to 54 years,Female,Others,Less than High School,1,Not very interested,11
+45 to 54 years,Female,Others,Less than High School,1,Somewhat interested,21
+45 to 54 years,Female,Others,Less than High School,1,Very interested,4
+45 to 54 years,Female,Others,Less than High School,2,Not at all interested,1
+45 to 54 years,Female,Others,Less than High School,2,Not very interested,4
+45 to 54 years,Female,Others,Less than High School,2,Somewhat interested,1
+45 to 54 years,Female,Others,Less than High School,2,Very interested,1
+45 to 54 years,Female,Others,Less than High School,3,Not at all interested,15
+45 to 54 years,Female,Others,Less than High School,3,Not very interested,1
+45 to 54 years,Female,Others,Less than High School,3,Somewhat interested,1
+45 to 54 years,Female,Others,Less than High School,3,Very interested,2
+45 to 54 years,Female,Others,Post-secondary diploma,1,Not at all interested,23
+45 to 54 years,Female,Others,Post-secondary diploma,1,Not very interested,68
+45 to 54 years,Female,Others,Post-secondary diploma,1,Somewhat interested,170
+45 to 54 years,Female,Others,Post-secondary diploma,1,Very interested,46
+45 to 54 years,Female,Others,Post-secondary diploma,2,Not at all interested,17
+45 to 54 years,Female,Others,Post-secondary diploma,2,Not very interested,24
+45 to 54 years,Female,Others,Post-secondary diploma,2,Somewhat interested,28
+45 to 54 years,Female,Others,Post-secondary diploma,2,Very interested,1
+45 to 54 years,Female,Others,Post-secondary diploma,3,Not at all interested,17
+45 to 54 years,Female,Others,Post-secondary diploma,3,Not very interested,10
+45 to 54 years,Female,Others,Post-secondary diploma,3,Somewhat interested,15
+45 to 54 years,Female,Others,Post-secondary diploma,3,Very interested,6
+45 to 54 years,Female,Others,University degree,1,Not at all interested,7
+45 to 54 years,Female,Others,University degree,1,Not very interested,33
+45 to 54 years,Female,Others,University degree,1,Somewhat interested,118
+45 to 54 years,Female,Others,University degree,1,Very interested,79
+45 to 54 years,Female,Others,University degree,2,Not at all interested,3
+45 to 54 years,Female,Others,University degree,2,Not very interested,10
+45 to 54 years,Female,Others,University degree,2,Somewhat interested,14
+45 to 54 years,Female,Others,University degree,2,Very interested,1
+45 to 54 years,Female,Others,University degree,3,Not at all interested,6
+45 to 54 years,Female,Others,University degree,3,Not very interested,7
+45 to 54 years,Female,Others,University degree,3,Somewhat interested,6
+45 to 54 years,Female,Others,University degree,3,Very interested,2
+45 to 54 years,Male,Married,Graduated from High School,1,Not at all interested,17
+45 to 54 years,Male,Married,Graduated from High School,1,Not very interested,40
+45 to 54 years,Male,Married,Graduated from High School,1,Somewhat interested,94
+45 to 54 years,Male,Married,Graduated from High School,1,Very interested,50
+45 to 54 years,Male,Married,Graduated from High School,2,Not at all interested,7
+45 to 54 years,Male,Married,Graduated from High School,2,Not very interested,14
+45 to 54 years,Male,Married,Graduated from High School,2,Somewhat interested,18
+45 to 54 years,Male,Married,Graduated from High School,3,Not at all interested,17
+45 to 54 years,Male,Married,Graduated from High School,3,Not very interested,12
+45 to 54 years,Male,Married,Graduated from High School,3,Somewhat interested,5
+45 to 54 years,Male,Married,Less than High School,1,Not at all interested,5
+45 to 54 years,Male,Married,Less than High School,1,Not very interested,14
+45 to 54 years,Male,Married,Less than High School,1,Somewhat interested,28
+45 to 54 years,Male,Married,Less than High School,1,Very interested,9
+45 to 54 years,Male,Married,Less than High School,2,Not at all interested,3
+45 to 54 years,Male,Married,Less than High School,2,Not very interested,5
+45 to 54 years,Male,Married,Less than High School,2,Somewhat interested,7
+45 to 54 years,Male,Married,Less than High School,2,Very interested,2
+45 to 54 years,Male,Married,Less than High School,3,Not at all interested,11
+45 to 54 years,Male,Married,Less than High School,3,Not very interested,6
+45 to 54 years,Male,Married,Less than High School,3,Somewhat interested,2
+45 to 54 years,Male,Married,Less than High School,3,Very interested,1
+45 to 54 years,Male,Married,Post-secondary diploma,1,Not at all interested,15
+45 to 54 years,Male,Married,Post-secondary diploma,1,Not very interested,50
+45 to 54 years,Male,Married,Post-secondary diploma,1,Somewhat interested,192
+45 to 54 years,Male,Married,Post-secondary diploma,1,Very interested,109
+45 to 54 years,Male,Married,Post-secondary diploma,2,Not at all interested,6
+45 to 54 years,Male,Married,Post-secondary diploma,2,Not very interested,9
+45 to 54 years,Male,Married,Post-secondary diploma,2,Somewhat interested,17
+45 to 54 years,Male,Married,Post-secondary diploma,2,Very interested,2
+45 to 54 years,Male,Married,Post-secondary diploma,3,Not at all interested,21
+45 to 54 years,Male,Married,Post-secondary diploma,3,Not very interested,7
+45 to 54 years,Male,Married,Post-secondary diploma,3,Somewhat interested,13
+45 to 54 years,Male,Married,Post-secondary diploma,3,Very interested,3
+45 to 54 years,Male,Married,University degree,1,Not at all interested,18
+45 to 54 years,Male,Married,University degree,1,Not very interested,42
+45 to 54 years,Male,Married,University degree,1,Somewhat interested,172
+45 to 54 years,Male,Married,University degree,1,Very interested,133
+45 to 54 years,Male,Married,University degree,2,Not at all interested,4
+45 to 54 years,Male,Married,University degree,2,Not very interested,10
+45 to 54 years,Male,Married,University degree,2,Somewhat interested,12
+45 to 54 years,Male,Married,University degree,2,Very interested,5
+45 to 54 years,Male,Married,University degree,3,Not at all interested,12
+45 to 54 years,Male,Married,University degree,3,Not very interested,8
+45 to 54 years,Male,Married,University degree,3,Somewhat interested,18
+45 to 54 years,Male,Married,University degree,3,Very interested,13
+45 to 54 years,Male,Others,Graduated from High School,1,Not at all interested,10
+45 to 54 years,Male,Others,Graduated from High School,1,Not very interested,32
+45 to 54 years,Male,Others,Graduated from High School,1,Somewhat interested,93
+45 to 54 years,Male,Others,Graduated from High School,1,Very interested,41
+45 to 54 years,Male,Others,Graduated from High School,2,Not at all interested,4
+45 to 54 years,Male,Others,Graduated from High School,2,Not very interested,13
+45 to 54 years,Male,Others,Graduated from High School,2,Somewhat interested,9
+45 to 54 years,Male,Others,Graduated from High School,2,Very interested,5
+45 to 54 years,Male,Others,Graduated from High School,3,Not at all interested,24
+45 to 54 years,Male,Others,Graduated from High School,3,Not very interested,6
+45 to 54 years,Male,Others,Graduated from High School,3,Somewhat interested,7
+45 to 54 years,Male,Others,Graduated from High School,3,Very interested,3
+45 to 54 years,Male,Others,Less than High School,1,Not at all interested,8
+45 to 54 years,Male,Others,Less than High School,1,Not very interested,9
+45 to 54 years,Male,Others,Less than High School,1,Somewhat interested,33
+45 to 54 years,Male,Others,Less than High School,1,Very interested,14
+45 to 54 years,Male,Others,Less than High School,2,Not at all interested,7
+45 to 54 years,Male,Others,Less than High School,2,Not very interested,10
+45 to 54 years,Male,Others,Less than High School,2,Somewhat interested,13
+45 to 54 years,Male,Others,Less than High School,3,Not at all interested,13
+45 to 54 years,Male,Others,Less than High School,3,Not very interested,7
+45 to 54 years,Male,Others,Less than High School,3,Somewhat interested,1
+45 to 54 years,Male,Others,Less than High School,3,Very interested,2
+45 to 54 years,Male,Others,Post-secondary diploma,1,Not at all interested,13
+45 to 54 years,Male,Others,Post-secondary diploma,1,Not very interested,33
+45 to 54 years,Male,Others,Post-secondary diploma,1,Somewhat interested,130
+45 to 54 years,Male,Others,Post-secondary diploma,1,Very interested,74
+45 to 54 years,Male,Others,Post-secondary diploma,2,Not at all interested,7
+45 to 54 years,Male,Others,Post-secondary diploma,2,Not very interested,7
+45 to 54 years,Male,Others,Post-secondary diploma,2,Somewhat interested,19
+45 to 54 years,Male,Others,Post-secondary diploma,2,Very interested,6
+45 to 54 years,Male,Others,Post-secondary diploma,3,Not at all interested,18
+45 to 54 years,Male,Others,Post-secondary diploma,3,Not very interested,12
+45 to 54 years,Male,Others,Post-secondary diploma,3,Somewhat interested,4
+45 to 54 years,Male,Others,Post-secondary diploma,3,Very interested,5
+45 to 54 years,Male,Others,University degree,1,Not at all interested,2
+45 to 54 years,Male,Others,University degree,1,Not very interested,14
+45 to 54 years,Male,Others,University degree,1,Somewhat interested,69
+45 to 54 years,Male,Others,University degree,1,Very interested,69
+45 to 54 years,Male,Others,University degree,2,Not at all interested,6
+45 to 54 years,Male,Others,University degree,2,Not very interested,4
+45 to 54 years,Male,Others,University degree,2,Somewhat interested,7
+45 to 54 years,Male,Others,University degree,2,Very interested,1
+45 to 54 years,Male,Others,University degree,3,Not at all interested,3
+45 to 54 years,Male,Others,University degree,3,Somewhat interested,2
+45 to 54 years,Male,Others,University degree,3,Very interested,5
+55 to 64 years,Female,Married,Graduated from High School,1,Not at all interested,17
+55 to 64 years,Female,Married,Graduated from High School,1,Not very interested,67
+55 to 64 years,Female,Married,Graduated from High School,1,Somewhat interested,199
+55 to 64 years,Female,Married,Graduated from High School,1,Very interested,54
+55 to 64 years,Female,Married,Graduated from High School,2,Not at all interested,8
+55 to 64 years,Female,Married,Graduated from High School,2,Not very interested,16
+55 to 64 years,Female,Married,Graduated from High School,2,Somewhat interested,15
+55 to 64 years,Female,Married,Graduated from High School,3,Not at all interested,17
+55 to 64 years,Female,Married,Graduated from High School,3,Not very interested,13
+55 to 64 years,Female,Married,Graduated from High School,3,Somewhat interested,10
+55 to 64 years,Female,Married,Less than High School,1,Not at all interested,15
+55 to 64 years,Female,Married,Less than High School,1,Not very interested,39
+55 to 64 years,Female,Married,Less than High School,1,Somewhat interested,56
+55 to 64 years,Female,Married,Less than High School,1,Very interested,17
+55 to 64 years,Female,Married,Less than High School,2,Not at all interested,6
+55 to 64 years,Female,Married,Less than High School,2,Not very interested,8
+55 to 64 years,Female,Married,Less than High School,2,Somewhat interested,4
+55 to 64 years,Female,Married,Less than High School,2,Very interested,1
+55 to 64 years,Female,Married,Less than High School,3,Not at all interested,13
+55 to 64 years,Female,Married,Less than High School,3,Not very interested,2
+55 to 64 years,Female,Married,Less than High School,3,Somewhat interested,2
+55 to 64 years,Female,Married,Less than High School,3,Very interested,1
+55 to 64 years,Female,Married,Post-secondary diploma,1,Not at all interested,27
+55 to 64 years,Female,Married,Post-secondary diploma,1,Not very interested,86
+55 to 64 years,Female,Married,Post-secondary diploma,1,Somewhat interested,295
+55 to 64 years,Female,Married,Post-secondary diploma,1,Very interested,114
+55 to 64 years,Female,Married,Post-secondary diploma,2,Not at all interested,9
+55 to 64 years,Female,Married,Post-secondary diploma,2,Not very interested,14
+55 to 64 years,Female,Married,Post-secondary diploma,2,Somewhat interested,14
+55 to 64 years,Female,Married,Post-secondary diploma,3,Not at all interested,10
+55 to 64 years,Female,Married,Post-secondary diploma,3,Not very interested,13
+55 to 64 years,Female,Married,Post-secondary diploma,3,Somewhat interested,8
+55 to 64 years,Female,Married,Post-secondary diploma,3,Very interested,1
+55 to 64 years,Female,Married,University degree,1,Not at all interested,15
+55 to 64 years,Female,Married,University degree,1,Not very interested,43
+55 to 64 years,Female,Married,University degree,1,Somewhat interested,138
+55 to 64 years,Female,Married,University degree,1,Very interested,102
+55 to 64 years,Female,Married,University degree,2,Not at all interested,5
+55 to 64 years,Female,Married,University degree,2,Not very interested,9
+55 to 64 years,Female,Married,University degree,2,Somewhat interested,10
+55 to 64 years,Female,Married,University degree,2,Very interested,4
+55 to 64 years,Female,Married,University degree,3,Not at all interested,5
+55 to 64 years,Female,Married,University degree,3,Not very interested,6
+55 to 64 years,Female,Married,University degree,3,Somewhat interested,4
+55 to 64 years,Female,Married,University degree,3,Very interested,4
+55 to 64 years,Female,Others,Graduated from High School,1,Not at all interested,22
+55 to 64 years,Female,Others,Graduated from High School,1,Not very interested,68
+55 to 64 years,Female,Others,Graduated from High School,1,Somewhat interested,112
+55 to 64 years,Female,Others,Graduated from High School,1,Very interested,56
+55 to 64 years,Female,Others,Graduated from High School,2,Not at all interested,11
+55 to 64 years,Female,Others,Graduated from High School,2,Not very interested,19
+55 to 64 years,Female,Others,Graduated from High School,2,Somewhat interested,15
+55 to 64 years,Female,Others,Graduated from High School,2,Very interested,1
+55 to 64 years,Female,Others,Graduated from High School,3,Not at all interested,20
+55 to 64 years,Female,Others,Graduated from High School,3,Not very interested,12
+55 to 64 years,Female,Others,Graduated from High School,3,Somewhat interested,4
+55 to 64 years,Female,Others,Graduated from High School,3,Very interested,1
+55 to 64 years,Female,Others,Less than High School,1,Not at all interested,25
+55 to 64 years,Female,Others,Less than High School,1,Not very interested,23
+55 to 64 years,Female,Others,Less than High School,1,Somewhat interested,39
+55 to 64 years,Female,Others,Less than High School,1,Very interested,9
+55 to 64 years,Female,Others,Less than High School,2,Not at all interested,6
+55 to 64 years,Female,Others,Less than High School,2,Not very interested,10
+55 to 64 years,Female,Others,Less than High School,2,Somewhat interested,15
+55 to 64 years,Female,Others,Less than High School,3,Not at all interested,9
+55 to 64 years,Female,Others,Less than High School,3,Not very interested,3
+55 to 64 years,Female,Others,Less than High School,3,Somewhat interested,1
+55 to 64 years,Female,Others,Post-secondary diploma,1,Not at all interested,26
+55 to 64 years,Female,Others,Post-secondary diploma,1,Not very interested,57
+55 to 64 years,Female,Others,Post-secondary diploma,1,Somewhat interested,197
+55 to 64 years,Female,Others,Post-secondary diploma,1,Very interested,82
+55 to 64 years,Female,Others,Post-secondary diploma,2,Not at all interested,13
+55 to 64 years,Female,Others,Post-secondary diploma,2,Not very interested,13
+55 to 64 years,Female,Others,Post-secondary diploma,2,Somewhat interested,19
+55 to 64 years,Female,Others,Post-secondary diploma,2,Very interested,5
+55 to 64 years,Female,Others,Post-secondary diploma,3,Not at all interested,12
+55 to 64 years,Female,Others,Post-secondary diploma,3,Not very interested,14
+55 to 64 years,Female,Others,Post-secondary diploma,3,Somewhat interested,8
+55 to 64 years,Female,Others,Post-secondary diploma,3,Very interested,3
+55 to 64 years,Female,Others,University degree,1,Not at all interested,9
+55 to 64 years,Female,Others,University degree,1,Not very interested,24
+55 to 64 years,Female,Others,University degree,1,Somewhat interested,106
+55 to 64 years,Female,Others,University degree,1,Very interested,99
+55 to 64 years,Female,Others,University degree,2,Not at all interested,5
+55 to 64 years,Female,Others,University degree,2,Not very interested,5
+55 to 64 years,Female,Others,University degree,2,Somewhat interested,7
+55 to 64 years,Female,Others,University degree,3,Not at all interested,8
+55 to 64 years,Female,Others,University degree,3,Not very interested,4
+55 to 64 years,Female,Others,University degree,3,Somewhat interested,4
+55 to 64 years,Female,Others,University degree,3,Very interested,3
+55 to 64 years,Male,Married,Graduated from High School,1,Not at all interested,22
+55 to 64 years,Male,Married,Graduated from High School,1,Not very interested,33
+55 to 64 years,Male,Married,Graduated from High School,1,Somewhat interested,152
+55 to 64 years,Male,Married,Graduated from High School,1,Very interested,80
+55 to 64 years,Male,Married,Graduated from High School,2,Not at all interested,2
+55 to 64 years,Male,Married,Graduated from High School,2,Not very interested,9
+55 to 64 years,Male,Married,Graduated from High School,2,Somewhat interested,17
+55 to 64 years,Male,Married,Graduated from High School,2,Very interested,1
+55 to 64 years,Male,Married,Graduated from High School,3,Not at all interested,18
+55 to 64 years,Male,Married,Graduated from High School,3,Not very interested,5
+55 to 64 years,Male,Married,Graduated from High School,3,Somewhat interested,6
+55 to 64 years,Male,Married,Graduated from High School,3,Very interested,3
+55 to 64 years,Male,Married,Less than High School,1,Not at all interested,11
+55 to 64 years,Male,Married,Less than High School,1,Not very interested,22
+55 to 64 years,Male,Married,Less than High School,1,Somewhat interested,72
+55 to 64 years,Male,Married,Less than High School,1,Very interested,26
+55 to 64 years,Male,Married,Less than High School,2,Not at all interested,4
+55 to 64 years,Male,Married,Less than High School,2,Not very interested,8
+55 to 64 years,Male,Married,Less than High School,2,Somewhat interested,9
+55 to 64 years,Male,Married,Less than High School,2,Very interested,1
+55 to 64 years,Male,Married,Less than High School,3,Not at all interested,8
+55 to 64 years,Male,Married,Less than High School,3,Not very interested,1
+55 to 64 years,Male,Married,Less than High School,3,Somewhat interested,1
+55 to 64 years,Male,Married,Less than High School,3,Very interested,1
+55 to 64 years,Male,Married,Post-secondary diploma,1,Not at all interested,12
+55 to 64 years,Male,Married,Post-secondary diploma,1,Not very interested,54
+55 to 64 years,Male,Married,Post-secondary diploma,1,Somewhat interested,194
+55 to 64 years,Male,Married,Post-secondary diploma,1,Very interested,117
+55 to 64 years,Male,Married,Post-secondary diploma,2,Not at all interested,4
+55 to 64 years,Male,Married,Post-secondary diploma,2,Not very interested,5
+55 to 64 years,Male,Married,Post-secondary diploma,2,Somewhat interested,13
+55 to 64 years,Male,Married,Post-secondary diploma,2,Very interested,2
+55 to 64 years,Male,Married,Post-secondary diploma,3,Not at all interested,9
+55 to 64 years,Male,Married,Post-secondary diploma,3,Not very interested,12
+55 to 64 years,Male,Married,Post-secondary diploma,3,Somewhat interested,10
+55 to 64 years,Male,Married,Post-secondary diploma,3,Very interested,3
+55 to 64 years,Male,Married,University degree,1,Not at all interested,8
+55 to 64 years,Male,Married,University degree,1,Not very interested,28
+55 to 64 years,Male,Married,University degree,1,Somewhat interested,193
+55 to 64 years,Male,Married,University degree,1,Very interested,182
+55 to 64 years,Male,Married,University degree,2,Not very interested,7
+55 to 64 years,Male,Married,University degree,2,Somewhat interested,7
+55 to 64 years,Male,Married,University degree,2,Very interested,3
+55 to 64 years,Male,Married,University degree,3,Not at all interested,5
+55 to 64 years,Male,Married,University degree,3,Not very interested,3
+55 to 64 years,Male,Married,University degree,3,Somewhat interested,9
+55 to 64 years,Male,Married,University degree,3,Very interested,7
+55 to 64 years,Male,Others,Graduated from High School,1,Not at all interested,12
+55 to 64 years,Male,Others,Graduated from High School,1,Not very interested,35
+55 to 64 years,Male,Others,Graduated from High School,1,Somewhat interested,89
+55 to 64 years,Male,Others,Graduated from High School,1,Very interested,57
+55 to 64 years,Male,Others,Graduated from High School,2,Not at all interested,1
+55 to 64 years,Male,Others,Graduated from High School,2,Not very interested,2
+55 to 64 years,Male,Others,Graduated from High School,2,Somewhat interested,8
+55 to 64 years,Male,Others,Graduated from High School,3,Not at all interested,19
+55 to 64 years,Male,Others,Graduated from High School,3,Not very interested,3
+55 to 64 years,Male,Others,Graduated from High School,3,Somewhat interested,4
+55 to 64 years,Male,Others,Graduated from High School,3,Very interested,1
+55 to 64 years,Male,Others,Less than High School,1,Not at all interested,10
+55 to 64 years,Male,Others,Less than High School,1,Not very interested,17
+55 to 64 years,Male,Others,Less than High School,1,Somewhat interested,40
+55 to 64 years,Male,Others,Less than High School,1,Very interested,22
+55 to 64 years,Male,Others,Less than High School,2,Not at all interested,5
+55 to 64 years,Male,Others,Less than High School,2,Not very interested,7
+55 to 64 years,Male,Others,Less than High School,2,Somewhat interested,4
+55 to 64 years,Male,Others,Less than High School,3,Not at all interested,22
+55 to 64 years,Male,Others,Less than High School,3,Not very interested,4
+55 to 64 years,Male,Others,Less than High School,3,Somewhat interested,3
+55 to 64 years,Male,Others,Less than High School,3,Very interested,2
+55 to 64 years,Male,Others,Post-secondary diploma,1,Not at all interested,12
+55 to 64 years,Male,Others,Post-secondary diploma,1,Not very interested,21
+55 to 64 years,Male,Others,Post-secondary diploma,1,Somewhat interested,114
+55 to 64 years,Male,Others,Post-secondary diploma,1,Very interested,63
+55 to 64 years,Male,Others,Post-secondary diploma,2,Not at all interested,7
+55 to 64 years,Male,Others,Post-secondary diploma,2,Not very interested,7
+55 to 64 years,Male,Others,Post-secondary diploma,2,Somewhat interested,13
+55 to 64 years,Male,Others,Post-secondary diploma,2,Very interested,3
+55 to 64 years,Male,Others,Post-secondary diploma,3,Not at all interested,17
+55 to 64 years,Male,Others,Post-secondary diploma,3,Not very interested,5
+55 to 64 years,Male,Others,Post-secondary diploma,3,Somewhat interested,6
+55 to 64 years,Male,Others,Post-secondary diploma,3,Very interested,3
+55 to 64 years,Male,Others,University degree,1,Not at all interested,3
+55 to 64 years,Male,Others,University degree,1,Not very interested,11
+55 to 64 years,Male,Others,University degree,1,Somewhat interested,68
+55 to 64 years,Male,Others,University degree,1,Very interested,82
+55 to 64 years,Male,Others,University degree,2,Not at all interested,4
+55 to 64 years,Male,Others,University degree,2,Somewhat interested,9
+55 to 64 years,Male,Others,University degree,2,Very interested,2
+55 to 64 years,Male,Others,University degree,3,Not at all interested,4
+55 to 64 years,Male,Others,University degree,3,Not very interested,3
+55 to 64 years,Male,Others,University degree,3,Somewhat interested,2
+55 to 64 years,Male,Others,University degree,3,Very interested,4
+65 to 74 years,Female,Married,Graduated from High School,1,Not at all interested,10
+65 to 74 years,Female,Married,Graduated from High School,1,Not very interested,38
+65 to 74 years,Female,Married,Graduated from High School,1,Somewhat interested,135
+65 to 74 years,Female,Married,Graduated from High School,1,Very interested,46
+65 to 74 years,Female,Married,Graduated from High School,2,Not at all interested,3
+65 to 74 years,Female,Married,Graduated from High School,2,Not very interested,5
+65 to 74 years,Female,Married,Graduated from High School,2,Somewhat interested,10
+65 to 74 years,Female,Married,Graduated from High School,2,Very interested,1
+65 to 74 years,Female,Married,Graduated from High School,3,Not at all interested,9
+65 to 74 years,Female,Married,Graduated from High School,3,Not very interested,2
+65 to 74 years,Female,Married,Graduated from High School,3,Somewhat interested,6
+65 to 74 years,Female,Married,Graduated from High School,3,Very interested,1
+65 to 74 years,Female,Married,Less than High School,1,Not at all interested,23
+65 to 74 years,Female,Married,Less than High School,1,Not very interested,38
+65 to 74 years,Female,Married,Less than High School,1,Somewhat interested,99
+65 to 74 years,Female,Married,Less than High School,1,Very interested,22
+65 to 74 years,Female,Married,Less than High School,2,Not at all interested,6
+65 to 74 years,Female,Married,Less than High School,2,Not very interested,8
+65 to 74 years,Female,Married,Less than High School,2,Somewhat interested,5
+65 to 74 years,Female,Married,Less than High School,2,Very interested,1
+65 to 74 years,Female,Married,Less than High School,3,Not at all interested,10
+65 to 74 years,Female,Married,Less than High School,3,Not very interested,1
+65 to 74 years,Female,Married,Less than High School,3,Somewhat interested,4
+65 to 74 years,Female,Married,Less than High School,3,Very interested,1
+65 to 74 years,Female,Married,Post-secondary diploma,1,Not at all interested,13
+65 to 74 years,Female,Married,Post-secondary diploma,1,Not very interested,37
+65 to 74 years,Female,Married,Post-secondary diploma,1,Somewhat interested,159
+65 to 74 years,Female,Married,Post-secondary diploma,1,Very interested,72
+65 to 74 years,Female,Married,Post-secondary diploma,2,Not at all interested,1
+65 to 74 years,Female,Married,Post-secondary diploma,2,Not very interested,5
+65 to 74 years,Female,Married,Post-secondary diploma,2,Somewhat interested,4
+65 to 74 years,Female,Married,Post-secondary diploma,2,Very interested,2
+65 to 74 years,Female,Married,Post-secondary diploma,3,Not at all interested,2
+65 to 74 years,Female,Married,Post-secondary diploma,3,Not very interested,4
+65 to 74 years,Female,Married,Post-secondary diploma,3,Somewhat interested,3
+65 to 74 years,Female,Married,University degree,1,Not at all interested,4
+65 to 74 years,Female,Married,University degree,1,Not very interested,16
+65 to 74 years,Female,Married,University degree,1,Somewhat interested,81
+65 to 74 years,Female,Married,University degree,1,Very interested,69
+65 to 74 years,Female,Married,University degree,2,Not very interested,4
+65 to 74 years,Female,Married,University degree,2,Somewhat interested,4
+65 to 74 years,Female,Married,University degree,2,Very interested,1
+65 to 74 years,Female,Married,University degree,3,Not at all interested,2
+65 to 74 years,Female,Married,University degree,3,Not very interested,1
+65 to 74 years,Female,Married,University degree,3,Somewhat interested,2
+65 to 74 years,Female,Others,Graduated from High School,1,Not at all interested,17
+65 to 74 years,Female,Others,Graduated from High School,1,Not very interested,43
+65 to 74 years,Female,Others,Graduated from High School,1,Somewhat interested,135
+65 to 74 years,Female,Others,Graduated from High School,1,Very interested,55
+65 to 74 years,Female,Others,Graduated from High School,2,Not at all interested,7
+65 to 74 years,Female,Others,Graduated from High School,2,Not very interested,11
+65 to 74 years,Female,Others,Graduated from High School,2,Somewhat interested,20
+65 to 74 years,Female,Others,Graduated from High School,2,Very interested,2
+65 to 74 years,Female,Others,Graduated from High School,3,Not at all interested,11
+65 to 74 years,Female,Others,Graduated from High School,3,Not very interested,4
+65 to 74 years,Female,Others,Graduated from High School,3,Somewhat interested,4
+65 to 74 years,Female,Others,Graduated from High School,3,Very interested,1
+65 to 74 years,Female,Others,Less than High School,1,Not at all interested,18
+65 to 74 years,Female,Others,Less than High School,1,Not very interested,41
+65 to 74 years,Female,Others,Less than High School,1,Somewhat interested,66
+65 to 74 years,Female,Others,Less than High School,1,Very interested,29
+65 to 74 years,Female,Others,Less than High School,2,Not at all interested,8
+65 to 74 years,Female,Others,Less than High School,2,Not very interested,11
+65 to 74 years,Female,Others,Less than High School,2,Somewhat interested,10
+65 to 74 years,Female,Others,Less than High School,3,Not at all interested,21
+65 to 74 years,Female,Others,Less than High School,3,Not very interested,6
+65 to 74 years,Female,Others,Less than High School,3,Somewhat interested,6
+65 to 74 years,Female,Others,Less than High School,3,Very interested,1
+65 to 74 years,Female,Others,Post-secondary diploma,1,Not at all interested,14
+65 to 74 years,Female,Others,Post-secondary diploma,1,Not very interested,42
+65 to 74 years,Female,Others,Post-secondary diploma,1,Somewhat interested,142
+65 to 74 years,Female,Others,Post-secondary diploma,1,Very interested,79
+65 to 74 years,Female,Others,Post-secondary diploma,2,Not very interested,10
+65 to 74 years,Female,Others,Post-secondary diploma,2,Somewhat interested,10
+65 to 74 years,Female,Others,Post-secondary diploma,2,Very interested,2
+65 to 74 years,Female,Others,Post-secondary diploma,3,Not at all interested,7
+65 to 74 years,Female,Others,Post-secondary diploma,3,Not very interested,5
+65 to 74 years,Female,Others,Post-secondary diploma,3,Somewhat interested,3
+65 to 74 years,Female,Others,Post-secondary diploma,3,Very interested,3
+65 to 74 years,Female,Others,University degree,1,Not at all interested,7
+65 to 74 years,Female,Others,University degree,1,Not very interested,12
+65 to 74 years,Female,Others,University degree,1,Somewhat interested,79
+65 to 74 years,Female,Others,University degree,1,Very interested,92
+65 to 74 years,Female,Others,University degree,2,Not at all interested,1
+65 to 74 years,Female,Others,University degree,2,Not very interested,3
+65 to 74 years,Female,Others,University degree,2,Very interested,3
+65 to 74 years,Female,Others,University degree,3,Not at all interested,2
+65 to 74 years,Female,Others,University degree,3,Not very interested,4
+65 to 74 years,Female,Others,University degree,3,Somewhat interested,4
+65 to 74 years,Female,Others,University degree,3,Very interested,2
+65 to 74 years,Male,Married,Graduated from High School,1,Not at all interested,3
+65 to 74 years,Male,Married,Graduated from High School,1,Not very interested,37
+65 to 74 years,Male,Married,Graduated from High School,1,Somewhat interested,104
+65 to 74 years,Male,Married,Graduated from High School,1,Very interested,51
+65 to 74 years,Male,Married,Graduated from High School,2,Not very interested,4
+65 to 74 years,Male,Married,Graduated from High School,2,Somewhat interested,4
+65 to 74 years,Male,Married,Graduated from High School,2,Very interested,4
+65 to 74 years,Male,Married,Graduated from High School,3,Not at all interested,4
+65 to 74 years,Male,Married,Graduated from High School,3,Not very interested,3
+65 to 74 years,Male,Married,Graduated from High School,3,Somewhat interested,4
+65 to 74 years,Male,Married,Graduated from High School,3,Very interested,2
+65 to 74 years,Male,Married,Less than High School,1,Not at all interested,19
+65 to 74 years,Male,Married,Less than High School,1,Not very interested,33
+65 to 74 years,Male,Married,Less than High School,1,Somewhat interested,88
+65 to 74 years,Male,Married,Less than High School,1,Very interested,39
+65 to 74 years,Male,Married,Less than High School,2,Not at all interested,2
+65 to 74 years,Male,Married,Less than High School,2,Not very interested,4
+65 to 74 years,Male,Married,Less than High School,2,Somewhat interested,5
+65 to 74 years,Male,Married,Less than High School,2,Very interested,3
+65 to 74 years,Male,Married,Less than High School,3,Not at all interested,8
+65 to 74 years,Male,Married,Less than High School,3,Not very interested,2
+65 to 74 years,Male,Married,Less than High School,3,Somewhat interested,3
+65 to 74 years,Male,Married,Less than High School,3,Very interested,2
+65 to 74 years,Male,Married,Post-secondary diploma,1,Not at all interested,6
+65 to 74 years,Male,Married,Post-secondary diploma,1,Not very interested,29
+65 to 74 years,Male,Married,Post-secondary diploma,1,Somewhat interested,123
+65 to 74 years,Male,Married,Post-secondary diploma,1,Very interested,125
+65 to 74 years,Male,Married,Post-secondary diploma,2,Not at all interested,1
+65 to 74 years,Male,Married,Post-secondary diploma,2,Not very interested,3
+65 to 74 years,Male,Married,Post-secondary diploma,2,Somewhat interested,5
+65 to 74 years,Male,Married,Post-secondary diploma,2,Very interested,1
+65 to 74 years,Male,Married,Post-secondary diploma,3,Not at all interested,6
+65 to 74 years,Male,Married,Post-secondary diploma,3,Not very interested,2
+65 to 74 years,Male,Married,Post-secondary diploma,3,Somewhat interested,3
+65 to 74 years,Male,Married,Post-secondary diploma,3,Very interested,2
+65 to 74 years,Male,Married,University degree,1,Not at all interested,6
+65 to 74 years,Male,Married,University degree,1,Not very interested,11
+65 to 74 years,Male,Married,University degree,1,Somewhat interested,115
+65 to 74 years,Male,Married,University degree,1,Very interested,147
+65 to 74 years,Male,Married,University degree,2,Not at all interested,3
+65 to 74 years,Male,Married,University degree,2,Not very interested,2
+65 to 74 years,Male,Married,University degree,2,Somewhat interested,6
+65 to 74 years,Male,Married,University degree,2,Very interested,3
+65 to 74 years,Male,Married,University degree,3,Not at all interested,5
+65 to 74 years,Male,Married,University degree,3,Not very interested,4
+65 to 74 years,Male,Married,University degree,3,Somewhat interested,4
+65 to 74 years,Male,Married,University degree,3,Very interested,5
+65 to 74 years,Male,Others,Graduated from High School,1,Not at all interested,7
+65 to 74 years,Male,Others,Graduated from High School,1,Not very interested,13
+65 to 74 years,Male,Others,Graduated from High School,1,Somewhat interested,49
+65 to 74 years,Male,Others,Graduated from High School,1,Very interested,28
+65 to 74 years,Male,Others,Graduated from High School,2,Not at all interested,4
+65 to 74 years,Male,Others,Graduated from High School,2,Not very interested,4
+65 to 74 years,Male,Others,Graduated from High School,2,Somewhat interested,4
+65 to 74 years,Male,Others,Graduated from High School,2,Very interested,1
+65 to 74 years,Male,Others,Graduated from High School,3,Not at all interested,8
+65 to 74 years,Male,Others,Graduated from High School,3,Not very interested,2
+65 to 74 years,Male,Others,Graduated from High School,3,Somewhat interested,2
+65 to 74 years,Male,Others,Less than High School,1,Not at all interested,12
+65 to 74 years,Male,Others,Less than High School,1,Not very interested,17
+65 to 74 years,Male,Others,Less than High School,1,Somewhat interested,37
+65 to 74 years,Male,Others,Less than High School,1,Very interested,16
+65 to 74 years,Male,Others,Less than High School,2,Not very interested,7
+65 to 74 years,Male,Others,Less than High School,2,Somewhat interested,8
+65 to 74 years,Male,Others,Less than High School,3,Not at all interested,11
+65 to 74 years,Male,Others,Less than High School,3,Not very interested,5
+65 to 74 years,Male,Others,Less than High School,3,Somewhat interested,4
+65 to 74 years,Male,Others,Post-secondary diploma,1,Not at all interested,7
+65 to 74 years,Male,Others,Post-secondary diploma,1,Not very interested,5
+65 to 74 years,Male,Others,Post-secondary diploma,1,Somewhat interested,44
+65 to 74 years,Male,Others,Post-secondary diploma,1,Very interested,44
+65 to 74 years,Male,Others,Post-secondary diploma,2,Not at all interested,3
+65 to 74 years,Male,Others,Post-secondary diploma,2,Not very interested,2
+65 to 74 years,Male,Others,Post-secondary diploma,2,Somewhat interested,4
+65 to 74 years,Male,Others,Post-secondary diploma,2,Very interested,1
+65 to 74 years,Male,Others,Post-secondary diploma,3,Not at all interested,1
+65 to 74 years,Male,Others,Post-secondary diploma,3,Not very interested,1
+65 to 74 years,Male,Others,Post-secondary diploma,3,Somewhat interested,1
+65 to 74 years,Male,Others,Post-secondary diploma,3,Very interested,3
+65 to 74 years,Male,Others,University degree,1,Not at all interested,4
+65 to 74 years,Male,Others,University degree,1,Not very interested,5
+65 to 74 years,Male,Others,University degree,1,Somewhat interested,32
+65 to 74 years,Male,Others,University degree,1,Very interested,57
+65 to 74 years,Male,Others,University degree,2,Not very interested,4
+65 to 74 years,Male,Others,University degree,2,Somewhat interested,7
+65 to 74 years,Male,Others,University degree,2,Very interested,3
+65 to 74 years,Male,Others,University degree,3,Not at all interested,3
+65 to 74 years,Male,Others,University degree,3,Somewhat interested,2
+65 to 74 years,Male,Others,University degree,3,Very interested,2
+75 years and over,Female,Married,Graduated from High School,1,Not at all interested,4
+75 years and over,Female,Married,Graduated from High School,1,Not very interested,14
+75 years and over,Female,Married,Graduated from High School,1,Somewhat interested,52
+75 years and over,Female,Married,Graduated from High School,1,Very interested,23
+75 years and over,Female,Married,Graduated from High School,2,Not very interested,1
+75 years and over,Female,Married,Graduated from High School,2,Somewhat interested,6
+75 years and over,Female,Married,Graduated from High School,3,Not very interested,2
+75 years and over,Female,Married,Graduated from High School,3,Somewhat interested,3
+75 years and over,Female,Married,Less than High School,1,Not at all interested,10
+75 years and over,Female,Married,Less than High School,1,Not very interested,20
+75 years and over,Female,Married,Less than High School,1,Somewhat interested,40
+75 years and over,Female,Married,Less than High School,1,Very interested,17
+75 years and over,Female,Married,Less than High School,2,Not at all interested,2
+75 years and over,Female,Married,Less than High School,2,Not very interested,3
+75 years and over,Female,Married,Less than High School,2,Somewhat interested,3
+75 years and over,Female,Married,Less than High School,3,Not at all interested,1
+75 years and over,Female,Married,Less than High School,3,Not very interested,3
+75 years and over,Female,Married,Less than High School,3,Somewhat interested,6
+75 years and over,Female,Married,Less than High School,3,Very interested,1
+75 years and over,Female,Married,Post-secondary diploma,1,Not at all interested,2
+75 years and over,Female,Married,Post-secondary diploma,1,Not very interested,7
+75 years and over,Female,Married,Post-secondary diploma,1,Somewhat interested,51
+75 years and over,Female,Married,Post-secondary diploma,1,Very interested,28
+75 years and over,Female,Married,Post-secondary diploma,2,Not very interested,2
+75 years and over,Female,Married,Post-secondary diploma,2,Somewhat interested,4
+75 years and over,Female,Married,Post-secondary diploma,2,Very interested,2
+75 years and over,Female,Married,Post-secondary diploma,3,Not at all interested,1
+75 years and over,Female,Married,Post-secondary diploma,3,Somewhat interested,2
+75 years and over,Female,Married,University degree,1,Not very interested,6
+75 years and over,Female,Married,University degree,1,Somewhat interested,13
+75 years and over,Female,Married,University degree,1,Very interested,12
+75 years and over,Female,Married,University degree,3,Somewhat interested,1
+75 years and over,Female,Married,University degree,3,Very interested,1
+75 years and over,Female,Others,Graduated from High School,1,Not at all interested,15
+75 years and over,Female,Others,Graduated from High School,1,Not very interested,42
+75 years and over,Female,Others,Graduated from High School,1,Somewhat interested,119
+75 years and over,Female,Others,Graduated from High School,1,Very interested,65
+75 years and over,Female,Others,Graduated from High School,2,Not at all interested,2
+75 years and over,Female,Others,Graduated from High School,2,Not very interested,5
+75 years and over,Female,Others,Graduated from High School,2,Somewhat interested,9
+75 years and over,Female,Others,Graduated from High School,2,Very interested,1
+75 years and over,Female,Others,Graduated from High School,3,Not at all interested,8
+75 years and over,Female,Others,Graduated from High School,3,Not very interested,4
+75 years and over,Female,Others,Graduated from High School,3,Somewhat interested,5
+75 years and over,Female,Others,Graduated from High School,3,Very interested,1
+75 years and over,Female,Others,Less than High School,1,Not at all interested,27
+75 years and over,Female,Others,Less than High School,1,Not very interested,67
+75 years and over,Female,Others,Less than High School,1,Somewhat interested,119
+75 years and over,Female,Others,Less than High School,1,Very interested,45
+75 years and over,Female,Others,Less than High School,2,Not at all interested,8
+75 years and over,Female,Others,Less than High School,2,Not very interested,12
+75 years and over,Female,Others,Less than High School,2,Somewhat interested,16
+75 years and over,Female,Others,Less than High School,2,Very interested,3
+75 years and over,Female,Others,Less than High School,3,Not at all interested,24
+75 years and over,Female,Others,Less than High School,3,Not very interested,6
+75 years and over,Female,Others,Less than High School,3,Somewhat interested,9
+75 years and over,Female,Others,Less than High School,3,Very interested,3
+75 years and over,Female,Others,Post-secondary diploma,1,Not at all interested,9
+75 years and over,Female,Others,Post-secondary diploma,1,Not very interested,27
+75 years and over,Female,Others,Post-secondary diploma,1,Somewhat interested,101
+75 years and over,Female,Others,Post-secondary diploma,1,Very interested,71
+75 years and over,Female,Others,Post-secondary diploma,2,Not at all interested,4
+75 years and over,Female,Others,Post-secondary diploma,2,Not very interested,1
+75 years and over,Female,Others,Post-secondary diploma,2,Somewhat interested,6
+75 years and over,Female,Others,Post-secondary diploma,2,Very interested,2
+75 years and over,Female,Others,Post-secondary diploma,3,Not at all interested,2
+75 years and over,Female,Others,Post-secondary diploma,3,Not very interested,2
+75 years and over,Female,Others,Post-secondary diploma,3,Somewhat interested,6
+75 years and over,Female,Others,Post-secondary diploma,3,Very interested,3
+75 years and over,Female,Others,University degree,1,Not at all interested,2
+75 years and over,Female,Others,University degree,1,Not very interested,5
+75 years and over,Female,Others,University degree,1,Somewhat interested,59
+75 years and over,Female,Others,University degree,1,Very interested,56
+75 years and over,Female,Others,University degree,2,Somewhat interested,2
+75 years and over,Female,Others,University degree,2,Very interested,3
+75 years and over,Female,Others,University degree,3,Not at all interested,2
+75 years and over,Female,Others,University degree,3,Somewhat interested,4
+75 years and over,Male,Married,Graduated from High School,1,Not at all interested,10
+75 years and over,Male,Married,Graduated from High School,1,Not very interested,14
+75 years and over,Male,Married,Graduated from High School,1,Somewhat interested,45
+75 years and over,Male,Married,Graduated from High School,1,Very interested,28
+75 years and over,Male,Married,Graduated from High School,2,Not at all interested,1
+75 years and over,Male,Married,Graduated from High School,2,Not very interested,2
+75 years and over,Male,Married,Graduated from High School,2,Somewhat interested,3
+75 years and over,Male,Married,Graduated from High School,3,Not at all interested,5
+75 years and over,Male,Married,Graduated from High School,3,Not very interested,1
+75 years and over,Male,Married,Graduated from High School,3,Somewhat interested,6
+75 years and over,Male,Married,Less than High School,1,Not at all interested,12
+75 years and over,Male,Married,Less than High School,1,Not very interested,24
+75 years and over,Male,Married,Less than High School,1,Somewhat interested,68
+75 years and over,Male,Married,Less than High School,1,Very interested,36
+75 years and over,Male,Married,Less than High School,2,Not at all interested,1
+75 years and over,Male,Married,Less than High School,2,Not very interested,2
+75 years and over,Male,Married,Less than High School,2,Somewhat interested,4
+75 years and over,Male,Married,Less than High School,3,Not at all interested,4
+75 years and over,Male,Married,Less than High School,3,Not very interested,6
+75 years and over,Male,Married,Less than High School,3,Somewhat interested,3
+75 years and over,Male,Married,Less than High School,3,Very interested,2
+75 years and over,Male,Married,Post-secondary diploma,1,Not at all interested,5
+75 years and over,Male,Married,Post-secondary diploma,1,Not very interested,2
+75 years and over,Male,Married,Post-secondary diploma,1,Somewhat interested,55
+75 years and over,Male,Married,Post-secondary diploma,1,Very interested,36
+75 years and over,Male,Married,Post-secondary diploma,2,Not at all interested,2
+75 years and over,Male,Married,Post-secondary diploma,2,Not very interested,3
+75 years and over,Male,Married,Post-secondary diploma,2,Somewhat interested,3
+75 years and over,Male,Married,Post-secondary diploma,2,Very interested,1
+75 years and over,Male,Married,Post-secondary diploma,3,Not very interested,1
+75 years and over,Male,Married,Post-secondary diploma,3,Somewhat interested,2
+75 years and over,Male,Married,Post-secondary diploma,3,Very interested,4
+75 years and over,Male,Married,University degree,1,Not at all interested,4
+75 years and over,Male,Married,University degree,1,Not very interested,9
+75 years and over,Male,Married,University degree,1,Somewhat interested,39
+75 years and over,Male,Married,University degree,1,Very interested,55
+75 years and over,Male,Married,University degree,2,Not very interested,2
+75 years and over,Male,Married,University degree,2,Somewhat interested,1
+75 years and over,Male,Married,University degree,3,Not at all interested,1
+75 years and over,Male,Married,University degree,3,Somewhat interested,3
+75 years and over,Male,Married,University degree,3,Very interested,4
+75 years and over,Male,Others,Graduated from High School,1,Not at all interested,2
+75 years and over,Male,Others,Graduated from High School,1,Not very interested,9
+75 years and over,Male,Others,Graduated from High School,1,Somewhat interested,35
+75 years and over,Male,Others,Graduated from High School,1,Very interested,18
+75 years and over,Male,Others,Graduated from High School,2,Not at all interested,1
+75 years and over,Male,Others,Graduated from High School,2,Not very interested,3
+75 years and over,Male,Others,Graduated from High School,2,Very interested,1
+75 years and over,Male,Others,Graduated from High School,3,Not at all interested,1
+75 years and over,Male,Others,Graduated from High School,3,Not very interested,3
+75 years and over,Male,Others,Graduated from High School,3,Somewhat interested,3
+75 years and over,Male,Others,Less than High School,1,Not at all interested,16
+75 years and over,Male,Others,Less than High School,1,Not very interested,39
+75 years and over,Male,Others,Less than High School,1,Somewhat interested,45
+75 years and over,Male,Others,Less than High School,1,Very interested,28
+75 years and over,Male,Others,Less than High School,2,Not at all interested,2
+75 years and over,Male,Others,Less than High School,2,Not very interested,1
+75 years and over,Male,Others,Less than High School,2,Somewhat interested,4
+75 years and over,Male,Others,Less than High School,2,Very interested,2
+75 years and over,Male,Others,Less than High School,3,Not at all interested,13
+75 years and over,Male,Others,Less than High School,3,Not very interested,3
+75 years and over,Male,Others,Less than High School,3,Somewhat interested,2
+75 years and over,Male,Others,Less than High School,3,Very interested,1
+75 years and over,Male,Others,Post-secondary diploma,1,Not at all interested,2
+75 years and over,Male,Others,Post-secondary diploma,1,Not very interested,7
+75 years and over,Male,Others,Post-secondary diploma,1,Somewhat interested,35
+75 years and over,Male,Others,Post-secondary diploma,1,Very interested,22
+75 years and over,Male,Others,Post-secondary diploma,2,Not at all interested,5
+75 years and over,Male,Others,Post-secondary diploma,2,Somewhat interested,3
+75 years and over,Male,Others,Post-secondary diploma,2,Very interested,1
+75 years and over,Male,Others,Post-secondary diploma,3,Not at all interested,3
+75 years and over,Male,Others,Post-secondary diploma,3,Not very interested,1
+75 years and over,Male,Others,Post-secondary diploma,3,Somewhat interested,4
+75 years and over,Male,Others,Post-secondary diploma,3,Very interested,2
+75 years and over,Male,Others,University degree,1,Not at all interested,2
+75 years and over,Male,Others,University degree,1,Not very interested,4
+75 years and over,Male,Others,University degree,1,Somewhat interested,20
+75 years and over,Male,Others,University degree,1,Very interested,25
+75 years and over,Male,Others,University degree,2,Very interested,3
+75 years and over,Male,Others,University degree,3,Not at all interested,1
+75 years and over,Male,Others,University degree,3,Somewhat interested,2
+75 years and over,Male,Others,University degree,3,Very interested,2
