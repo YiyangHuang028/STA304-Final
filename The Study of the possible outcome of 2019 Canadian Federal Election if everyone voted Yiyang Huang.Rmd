@@ -1,5 +1,5 @@
 ---
-title: "The Study of the possible outcome of 2019 Canadian Federal Election if everyone voted"
+title: "The Study of the Possible Outcome of 2019 Canadian Federal Election if Everyone Voted"
 author: "Yiyang"
 date: "2020/12/18"
 output: bookdown::pdf_document2
